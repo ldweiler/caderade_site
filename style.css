@@ -1,0 +1,124 @@
+header {
+  height: 450px;
+  background: url('https://cdn.fstoppers.com/styles/full/s3/lead/2016/04/laanscapes-chapel-of-eternal-sunset-2016-by-daniel-laan.jpg') center center;
+  background-size: cover;
+}
+
+.logo {
+  font-size: 30px;
+  float: left;
+  height: 20px;
+  width: 85px;
+  margin: 10px 0 0 30px;
+}
+
+nav { 
+  font-size: 20px;
+  text-align: center;
+  border: transparent;
+  list-style: none;
+  text-decoration: none;
+  float: inherit;
+  margin: 30px 30px 0 0;
+}
+
+a {
+  list-style: none;
+  border: transparent;
+  display: inline-block;
+  margin-right: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  size: 20px;
+  color: rgba(0, 0, 0, 0.7)
+}
+
+h1 {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 71px;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 20px;
+  clear: both;
+}
+
+span {
+  display: inline-block;
+  padding: .2em .5em;
+  border: white solid 10px;
+}
+
+.kicker {
+  line-height: 1;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+
+h3 {
+  text-align: center;
+}
+
+.profileintro {
+  font-size: 40px;
+}
+
+face-img {
+  height: 250px;
+  width: 250px;
+  margin-left: 0px;
+  border: 5px solid white;
+  border-radius: 200px;
+}
+
+
+
+.face-lockup {
+  max-width: 600px;
+  display: flex;
+}
+
+.fa fa-camera-retro {
+    font-size:90px;
+    
+}
+
+.meparagraph {
+  font-size: 30px;
+  padding-top: 100px;
+  padding-bottom: 200px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+footer {
+  height: 200px;
+  background: url('http://dogwood.photography/images/photography-school.jpg') center center;
+  background-size: cover;
+}
+
+.lockup {
+  padding: 50px 30px;
+  float: right;
+}
+
+.logo {
+  size: 50px;
+  margin-right: 30px;
+}
+
+.content-wrap {
+  float: right;
+}
+
+.copyright {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: black;
+}
